@@ -1,6 +1,6 @@
 # TrabalhoSockets
-# Objetivos
-## Implementar um “Chat de notícias” em Java utilizando “Sockets”:
+## Objetivos
+Implementar um “Chat de notícias” em Java utilizando “Sockets”:
 1. O servidor poderá receber conexões de vários clientes e deverá responder a todas elas
 simultaneamente. Para que isso ocorra, o servidor deverá tratar as conexões dos
 clientes em “threads” separadas. Ao receber uma conexão de um cliente, o servidor
@@ -15,4 +15,3 @@ servidor.
 3. Enquanto um cliente estiver digitando uma mensagem, ele poderá receber mensagens
 de outros clientes. Para que isso ocorra, é necessário que o cliente mantenha uma
 “thread” ativa para esperar a chegada de novas mensagens.
-###
