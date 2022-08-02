@@ -15,3 +15,4 @@ servidor.
 3. Enquanto um cliente estiver digitando uma mensagem, ele poderá receber mensagens
 de outros clientes. Para que isso ocorra, é necessário que o cliente mantenha uma
 “thread” ativa para esperar a chegada de novas mensagens.
+###
